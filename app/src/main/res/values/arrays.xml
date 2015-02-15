@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="pickupLinesItemTitles">
+        <item>Airport</item>
+        <item>Coming</item>
+        <item>Flirting from a distance</item>
+        <item>Hot in here</item>
+        <item>Im a frog</item>
+        <item>Kiss Me</item>
+        <item>Like Milk</item>
+        <item>Looking for a friend</item>
+        <item>Ive lost my number</item>
+        <item>Love at first sight</item>
+        <item>New in town</item>
+        <item>Nice dress</item>
+        <item>Rainbow</item>
+        <item>Tennessee</item>
+        <item>Up Close</item>
+        <item>Nice Girl</item>
+    </array>
+
+    <array name="funnySoundTitles">
+        <item>Angry Squirrel</item>
+        <item>Bike Horn</item>
+        <item>Burp</item>
+        <item>Chuckle</item>
+        <item>Fart</item>
+        <item>Kid Laugh</item>
+        <item>Party Horn</item>
+        <item>Pig Snort</item>
+        <item>Veeramdial</item>
+        <item>Despicable Me</item>
+        <item>Despicable Me 2</item>
+        <item>Exterminator</item>
+        <item>Hommer</item>
+        <item>July</item>
+        <item>Nasa</item>
+        <item>Nono</item>
+    </array>
+
+</resources>
